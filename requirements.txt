@@ -3,3 +3,4 @@ langchain_community
 langgraph
 langserve[all]
 python-dotenv
+langchain_google_genai
